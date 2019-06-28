@@ -1,3 +1,3 @@
-n=input()
-a=n[::-1]
-print(a)
+num=input()
+b=num[::-1]
+print(b)
